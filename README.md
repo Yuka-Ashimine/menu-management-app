@@ -19,3 +19,20 @@ JavaScript、HTML、CSSで作成した献立管理Webアプリです。
 - CSS
 - Chart.js
 - LocalStorage
+
+## 画面イメージ
+
+### 食材登録
+![食材登録](images/ingredients.png)
+
+### レシピ登録・検索
+![レシピ登録・検索](images/recipes.png)
+
+### レシピ一覧
+![レシピ一覧](images/recipe-list.png)
+
+### 献立登録
+![献立登録](images/menu.png)
+
+### 食費グラフ
+![食費グラフ](images/chart.png)
