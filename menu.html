@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>献立</title>
+</head>
+<body>
+     <h1>献立登録</h1>
+
+  <input type="date" id="date">
+  <select id="recipeSelect"></select>
+  <button onclick="addMenu()">登録</button>
+
+  <h2>献立一覧</h2>
+  <table border="1">
+    <thead>
+        <tr>
+            <th>日付</th>
+            <th>曜日</th>
+            <th>献立</th>
+            <th>金額</th>
+            <th>削除</th>
+
+        </tr>
+    </thead>
+    <tbody id="menuList">
+    </tbody>
+  </table>
+  <h2>週ごとの食費</h2>
+  <canvas id="weekBarChart"></canvas>
+
+  <script src="menu.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.1/dist/chart.umd.min.js"></script>
+</body>
+</html>
