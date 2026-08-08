@@ -23,16 +23,16 @@ JavaScript、HTML、CSSで作成した献立管理Webアプリです。
 ## 画面イメージ
 
 ### 食材登録
-![食材登録](images/ingredients.png)
+<img src="images/ingredients.png" width="500">
 
 ### レシピ登録・検索
-![レシピ登録・検索](images/recipes.png)
+<img src="images/recipes.png" width="500">
 
 ### レシピ一覧
-![レシピ一覧](images/recipe-list.png)
+<img src="images/recipe-list.png" width="500">
 
 ### 献立登録
-![献立登録](images/menu.png)
+<img src="images/menu.png" width="500">
 
 ### 食費グラフ
-![食費グラフ](images/chart.png)
+<img src="images/chart.png" width="500">
