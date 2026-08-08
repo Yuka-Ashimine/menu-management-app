@@ -35,4 +35,4 @@ JavaScript、HTML、CSSで作成した献立管理Webアプリです。
 <img src="images/menu.png" width="500">
 
 ### 食費グラフ
-<img src="images/chart.png" width="500">
+<img src="images/chart.png">
